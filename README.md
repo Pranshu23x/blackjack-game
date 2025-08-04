@@ -15,3 +15,5 @@ A classic card game implemented using vanilla JavaScript, HTML, and CSS. This pr
     CSS3
 
     JavaScript (ES6)
+
+Built as part of my JavaScript learning journey — inspired by Vegas but coded 😎
